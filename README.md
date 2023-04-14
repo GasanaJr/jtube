@@ -9,6 +9,13 @@ It is a basic clone of the real version of youtube for education purposes
 - Run `npm install` to get all the dependencies
 - Run `npm start` to start the development server
 
+## TechStalk
+
+- React Js
+- Material UI
+- HTML
+- CSS
+
 ## Available Scripts
 
 In the project directory, you can run:
