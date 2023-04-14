@@ -55,4 +55,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Live Demo
 
-- Visit [JTUBE](https://calm-vacherin-821db8.netlify.app/)
+- Visit [JTUBE](https://djtube.netlify.app/)
